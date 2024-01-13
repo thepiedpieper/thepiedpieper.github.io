@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://thepiedpieper.github.io/</link>
+    <link>https://thepiedpieper.github.io/posts/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Jan 2024 09:19:01 +0530</lastBuildDate><atom:link href="https://thepiedpieper.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 09:19:01 +0530</lastBuildDate><atom:link href="https://thepiedpieper.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>The Plains Cupid</title>
         <link>https://thepiedpieper.github.io/posts/the-plains-cupid/</link>
