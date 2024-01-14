@@ -30,12 +30,21 @@ These butterflies belong to the Lycaenidae family (tribe Polyommatini) of butter
       </item>
     
       <item>
-        <title></title>
-        <link>https://thepiedpieper.github.io/posts/intro/</link>
+        <title>About</title>
+        <link>https://thepiedpieper.github.io/about/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thepiedpieper.github.io/posts/intro/</guid>
-        <description>Hi! This is Adrika. I am a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, literature, and cooking. Have a nice day!</description>
+        <guid>https://thepiedpieper.github.io/about/about/</guid>
+        <description>All about me</description>
+      </item>
+    
+      <item>
+        <title>About</title>
+        <link>https://thepiedpieper.github.io/posts/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thepiedpieper.github.io/posts/about/</guid>
+        <description>All about me</description>
       </item>
     
   </channel>
