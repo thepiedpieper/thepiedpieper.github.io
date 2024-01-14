@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to my webpage.</title>
-    <link>https://thepiedpieper.github.io/</link>
+    <link>https://thepiedpieper.github.io/biology/</link>
     <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 09:32:56 +0530</lastBuildDate><atom:link href="https://thepiedpieper.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jan 2024 09:32:56 +0530</lastBuildDate><atom:link href="https://thepiedpieper.github.io/biology/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Chapter 2 - Principles of Neural Science</title>
         <link>https://thepiedpieper.github.io/biology/principles-of-neural-science/chap-2/chapter-2/</link>
@@ -25,18 +25,6 @@ Glial Cells Functions: Nourishment to neurons Structure Dev &amp;mdash; migratio
         <guid>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</guid>
         <description>What is migration? The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development. How do cells achieve this? Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.
 Forward genetic analysis This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest.</description>
-      </item>
-    
-      <item>
-        <title>The Plains Cupid</title>
-        <link>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</link>
-        <pubDate>Sat, 13 Jan 2024 09:19:01 +0530</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</guid>
-        <description>Subject - The Plains Cupid (Luthrodes pandava)
-Long afternoon walks are the best thing to happen to raccoon-eyed college students who have taken to living in the library. Especially if you are intercepted by these pretty sights; they flit about in the bushes, and dance nimbly on the slender stalks of coatbuttons, and overall, make a torrid summer more bearable.
-A male wet season brood
-These butterflies belong to the Lycaenidae family (tribe Polyommatini) of butterflies, (the second-largest family of butterflies behind Nymphalidae, or the brush footed butterflies), whose members are called gossamer-winged butterflies.</description>
       </item>
     
       <item>
