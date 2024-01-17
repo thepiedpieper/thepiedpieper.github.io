@@ -263,254 +263,246 @@
 
 
 
-<script type="text/javascript" src='/js/pdf-js/build/pdf.js'></script>
 
-<style>
-  #embed-pdf-container {
-    position: relative;
-    width: 100%;
-    height: auto;
-    min-height: 20vh;
-     
-  }
-  
-  .pdf-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  #the-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  
-  .pdf-loadingWrapper {
-    display: none;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 350px;
-  }
-  
-  .pdf-loading {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border: 3px solid #d2d0d0;;
-    border-radius: 50%;
-    border-top-color: #383838;
-    animation: spin 1s ease-in-out infinite;
-    -webkit-animation: spin 1s ease-in-out infinite;
-  }
-  
-  
-  
-  
-  
-  #overlayText {
-    word-wrap: break-word;
-    display: grid;
-    justify-content: end;
-  }
-  
-  #overlayText a {
-    position: relative;
-    top: 10px;
-    right: 4px;
-    color: #000;
-    margin: auto;
-    background-color: #eeeeee;
-    padding: 0.3em 1em;
-    border: solid 2px;
-    border-radius: 12px;
-    border-color: #00000030;
-    text-decoration: none;
-  }
-  
-  #overlayText svg {
-    height: clamp(1em, 2vw, 1.4em);
-    width:  clamp(1em, 2vw, 1.4em);
-  }
-  
-  
-  
-  @keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  @-webkit-keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-35544b08">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-35544b08">
-        <div class="pdf-loading" id="pdf-loading-35544b08"></div>
-    </div>
-    <div id="overlayText">
-      <a href="/birds/The%20Black%20Headed%20Ibis.pdf" aria-label="Download" download>
-        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
-            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
-        </svg>
-      </a>
-    </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-35544b08"></canvas>
-</div>
 
-<div class="pdf-paginator" id="pdf-paginator-35544b08">
-    <button id="pdf-prev-35544b08">Previous</button>
-    <button id="pdf-next-35544b08">Next</button> &nbsp; &nbsp;
-    <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-35544b08"></span> / <span class="pdf-pagecount" id="pdf-pagecount-35544b08"></span>
-    </span>
-    <a class="pdf-source" id="pdf-source-35544b08" href="/birds/The%20Black%20Headed%20Ibis.pdf">[pdf]</a>
-</div>
 
-<noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-35544b08" href="/birds/The%20Black%20Headed%20Ibis.pdf">here</a>.
-</noscript>
 
-<script type="text/javascript">
-    (function(){
-    var url = '\/birds\/The Black Headed Ibis.pdf';
 
-    var hidePaginator = "" === "true";
-    var hideLoader = "" === "true";
-    var selectedPageNum = parseInt("") || 1;
 
-    
-    var pdfjsLib = window['pdfjs-dist/build/pdf'];
 
-    
-    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
-    pdfjsLib.GlobalWorkerOptions.workerSrc = "https:\/\/thepiedpieper.github.io\/" + 'js/pdf-js/build/pdf.worker.js';
+
+
+  <h1 id="the-black-headed-ibis"><strong>The Black Headed Ibis</strong></h1> 
+
+<p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
     
     
-    var pdfDoc = null,
-        pageNum = selectedPageNum,
-        pageRendering = false,
-        pageNumPending = null,
-        scale = 3,
-        canvas = document.getElementById('pdf-canvas-35544b08'),
-        ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-35544b08"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-35544b08');
-
-
     
-    showPaginator();
-    showLoader();
-
-    
-
-    function renderPage(num) {
-      pageRendering = true;
       
-      pdfDoc.getPage(num).then(function(page) {
-        var viewport = page.getViewport({scale: scale});
-        canvas.height = viewport.height;
-        canvas.width = viewport.width;
-
-        
-        var renderContext = {
-          canvasContext: ctx,
-          viewport: viewport
-        };
-        var renderTask = page.render(renderContext);
-
-        
-        renderTask.promise.then(function() {
-          pageRendering = false;
-          showContent();
-
-          if (pageNumPending !== null) {
-            
-            renderPage(pageNumPending);
-            pageNumPending = null;
-          }
-        });
-      });
-
       
-      document.getElementById('pdf-pagenum-35544b08').textContent = num;
-    }
-
-    
-
-    function showContent() {
-      loadingWrapper.style.display = 'none';
-      canvas.style.display = 'block';
-    }
-
-    
-
-    function showLoader() {
-      if(hideLoader) return
-      loadingWrapper.style.display = 'flex';
-      canvas.style.display = 'none';
-    }
-
-    
-
-    function showPaginator() {
-      if(hidePaginator) return
-      paginator.style.display = 'block';
-    }
-
-    
-
-    function queueRenderPage(num) {
-      if (pageRendering) {
-        pageNumPending = num;
-      } else {
-        renderPage(num);
-      }
-    }
-
-    
-
-    function onPrevPage() {
-      if (pageNum <= 1) {
-        return;
-      }
-      pageNum--;
-      queueRenderPage(pageNum);
-    }
-    document.getElementById('pdf-prev-35544b08').addEventListener('click', onPrevPage);
-
-    
-
-    function onNextPage() {
-      if (pageNum >= pdfDoc.numPages) {
-        return;
-      }
-      pageNum++;
-      queueRenderPage(pageNum);
-    }
-    document.getElementById('pdf-next-35544b08').addEventListener('click', onNextPage);
-
-    
-
-    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
-      pdfDoc = pdfDoc_;
-      var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-35544b08').textContent = numPages;
-
+        <img
+          
+          loading="lazy"
+          src="/images/ibis.jpg"
+          
+        />
       
-      if(pageNum > numPages) {
-        pageNum = numPages
-      }
+    
+    
+  
+  
 
+</p>
+<p>The Black Headed Ibis (<em>Threskiornins melanocephalus</em>), also known as
+the Oriental white ibis, is a large wader found over a large range of
+South-eastern Asia. It is a large Ciconiiform (order comprising
+storklike birds) with adults measuring 65-70cm.<br>
+It is the only native ibis species in its range that has an overall
+white plumage with a black neck and head. The down-curved beak and legs
+are also black</p>
+
+
+
+
+
+
+
+
+
+  <h2 id="introduction"><a class="anchor" href="#introduction" title='Anchor for: Introduction.'><svg aria-hidden="true"><use xlink:href="/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag"/></svg></a> Introduction</h2> 
+
+<p>The black headed ibis is a medium, nomadic, wading waterbird, frequently
+found in association with other Ciconiiforms or pelicaniiforms in
+shallow waters. They are gregarious feeders, with a diet comprising
+grass, plant material, amphibians, crustaceans and water snakes.<br>
+The black-headed ibis is very versatile being able to use a large
+variety of natural and man-made habitats. These include freshwater and
+salt-water marshes, lakes and ponds, as also rice fields, freshly
+ploughed crop fields, irrigation canals, riversides, reservoirs, urban
+lakes, open sewage gutters, grazing lots, and garbage dumping sites.
+Ibis alter use of varied preferred foraging habitats by season in
+agricultural landscapes such as in south-western Uttar Pradesh in India.
+In summer, they largely use and prefer natural marshes and fallow
+fields, but in the monsoon, spread out more evenly to also use a variety
+of agricultural fields.<br>
+Like many storks and spoonbills, blackheaded ibises lack a <strong>true
+voice-producing mechaninsm</strong> and are mostly silent, except for
+ventriloquistic grunts uttered by pairs at the nest.</p>
+
+
+
+
+
+
+
+
+
+  <h2 id="nesting"><a class="anchor" href="#nesting" title='Anchor for: Nesting.'><svg aria-hidden="true"><use xlink:href="/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag"/></svg></a> Nesting</h2> 
+
+<p>Ibises nest and roost in coloies called <em>heronries</em> or <em>egretries</em>, in
+association with other waterbirds, in and around wetlands. They are
+<strong>monsoon breeders</strong>, probably due to the abundance of resources in
+wetlands during this time.</p>
+<p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+    
       
-      renderPage(pageNum);
-    });
-    })();
-</script>
+      
+        <img
+          
+          loading="lazy"
+          src="/images/ibisnest.jpg"
+          
+        />
+      
+    
+    
+  
+  
 
+</p>
+<p>It is a colonial breeder, nesting on moderate to tall-sized trees such
+as <em>Prosopis</em>, <em>Acacia</em> and various species of <em>Ficus</em> which stand in or
+near water. The main breeding season of black headed ibises is from June
+to August in Northern India, and From November to February in SOuthern
+India, just in time for the monsoons. The breeding activities of the
+ibis is heavily influenced by the rain, and immediate rainfall after the
+normal rainy season have been found to induce vigourous reproductive
+activities in this species, often eading to a decrease in breeding
+efficiency.</p>
+
+
+
+
+
+
+
+
+
+  <h4 id="selection-of-nesting-sites"><a class="anchor" href="#selection-of-nesting-sites" title='Anchor for: Selection of nesting sites.'><svg aria-hidden="true"><use xlink:href="/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag"/></svg></a> <em>Selection of nesting sites</em></h4> 
+
+<p>The white ibis does not have a very strong site-fidelity. What then,
+would influence the choices of these birds while choosing a nesting
+site?\</p>
+<ul>
+<li>
+<p><em>Vegetative characteristics</em>: It has been found that even though the
+majority of breeding sites change each season, nests are usually
+located on trees with a dense and rich canopy cover that provides
+and ideal nesting platform. The thick canopy also prevents the
+chicks from falling directly to the ground. The dense canopy also
+protects chicks from direct thermal stress, and minimises the
+requirement of <strong>wing shading</strong> by the parents, thus reducing the
+energy cost.</p>
+</li>
+<li>
+<p><em>Familiarity bias</em>: Ibises have often been found to reuse old
+nesting sites, probably because of the benefits in foraging and
+predation avoidance brough about by familiarity with a site.</p>
+</li>
+</ul>
+<p>Ibises have also often been found to displace majority of their nesting
+colonies every breeding season to achieve maximum breeding success.</p>
+<p>Extra-pair copulation most often occurs when the male is absent from the
+nest for the collection of nest material (Frederick, 1987b; Aguilera and
+Alvarez, 1989). Therefore, the time and energy saved by reusing a nest
+could be used by the male for other important reproductive activities
+such as protection of the nest and mate guarding.</p>
+
+
+
+
+
+
+
+
+
+  <h2 id="breeding-plumage"><a class="anchor" href="#breeding-plumage" title='Anchor for: Breeding Plumage.'><svg aria-hidden="true"><use xlink:href="/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag"/></svg></a> Breeding Plumage</h2> 
+
+<p>Tails of adults bear light grey ornamental feathers that turn jet black
+during the breeding season. During the breeding season, bare patches
+under the wing turn blood-red. The head of some breeding adults gain a
+blueish tinge, or very rarely have a pink or bright red patch behind the
+neck. Some breeding adults also develop tufts of white feathers behind
+the neck, and rarely also get a yellowish colouration on the breast and
+back. Sexes are identical but juveniles are identifiable from adults in
+having greyish feathering on the neck and speckled brown-grey feathering
+on the wings and back.</p>
+
+
+
+
+
+
+
+
+
+  <h2 id="references"><a class="anchor" href="#references" title='Anchor for: References:.'><svg aria-hidden="true"><use xlink:href="/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag"/></svg></a> References:</h2> 
+
+<ul>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Black-headed_ibis" target="_blank" >Wikipedia</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S2287884X18300566?via%3Dihub#sec3" target="_blank" >ScienceDirect</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABlack-headed_Ibis_%2528Threskiornis_melanocephalus%2529_nesting_at_Garapadu%2C_AP_W_IMG_5208.jpg&amp;psig=AOvVaw01A_W5J92bWE5OfkN1aEUq&amp;ust=1705568257906000&amp;source=images&amp;cd=vfe&amp;opi=89978449&amp;ved=0CBUQjhxqFwoTCKjgp4OH5IMDFQAAAAAdAAAAABAb" target="_blank" >Wikimedia
+Commons</a>
+</p>
+</li>
+</ul>
 
 
 

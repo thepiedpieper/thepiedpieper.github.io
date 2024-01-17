@@ -20,7 +20,6 @@ Ibises nest and roost in coloies called _heronries_ or _egretries_, in associati
 It is a colonial breeder, nesting on moderate to tall-sized trees such as _Prosopis_, _Acacia_ and various species of _Ficus_ which stand in or near water. 
 The main breeding season of black headed ibises is from June to August in Northern India, and From November to February in SOuthern India, just in time for the monsoons. The breeding activities of the ibis is heavily influenced by the rain, and immediate rainfall after the normal rainy season have been found to induce vigourous reproductive activities in this species, often eading to a decrease in breeding efficiency.
 
-#quote(block:true, attribution:"Tigerpaper Vol.29:No.2 Apr.-Jun.200224")[During the 1995 breeding episode the highest number of pairs(159) nested and the breeding season continued to August, making it the longest breeding season for the fact that very few ibsies nested...]
 
 ==== _Selection of nesting sites_
 
