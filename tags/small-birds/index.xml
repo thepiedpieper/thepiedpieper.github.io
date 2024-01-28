@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to my webpage.</title>
-    <link>https://thepiedpieper.github.io/tags/birds/</link>
+    <link>https://thepiedpieper.github.io/tags/small-birds/</link>
     <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thepiedpieper.github.io/tags/birds/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thepiedpieper.github.io/tags/small-birds/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>The Streaked Spiderhunter</title>
         <link>https://thepiedpieper.github.io/birds/streaked-spiderhunter/</link>
@@ -16,16 +16,6 @@
         <description>The Streaked Spiderhunter If you are ever out birding in montane forests in eastern India, and if you are lucky enough to see scores of small birds flitting about in the trees on dainty wings, you can always spot these birds out by their obscenely long beaks.
 There are eleven species of spiderhunters in South and Southeastern Asia, and this is one of the two found in India.
 Spiderhunters forage all parts of the forest canopy, never veering close to the ground; if you stand long enough, they appear almost squirrel-like as they scuttle and look for small invertebrates.</description>
-      </item>
-    
-      <item>
-        <title>The Black Headed Ibis</title>
-        <link>https://thepiedpieper.github.io/birds/the-black-headed-ibis/</link>
-        <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/birds/the-black-headed-ibis/</guid>
-        <description>The Black Headed Ibis The Black Headed Ibis (Threskiornins melanocephalus), also known as the Oriental white ibis, is a large wader found over a large range of South-eastern Asia. It is a large Ciconiiform (order comprising storklike birds) with adults measuring 65-70cm.
-It is the only native ibis species in its range that has an overall white plumage with a black neck and head. The down-curved beak and legs are also black.</description>
       </item>
     
   </channel>
