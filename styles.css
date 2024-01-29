@@ -1,3 +1,9 @@
-body {
-    background-image: image("/images/image-1-2.png");
+ol {
+  list-style-type: decimal;
+  margin: 0px;
+}
+
+ul {
+  list-style-type: disc;
+  margin: 0px;
 }
