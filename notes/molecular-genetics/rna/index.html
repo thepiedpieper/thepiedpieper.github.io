@@ -29,7 +29,7 @@
 
 
 
-<meta property="og:site_name" content="Welcome to my webpage.">
+<meta property="og:site_name" content="Hail the Octopus.">
 <meta property="og:title" content="RNAs">
 
   <meta property="og:url" content="https://thepiedpieper.github.io/notes/molecular-genetics/rna/">
@@ -170,7 +170,7 @@
     <header>
       
 
-  <a href="/">Welcome to my webpage.</a>
+  <a href="/">Hail the Octopus.</a>
 
 
 
@@ -363,36 +363,36 @@
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-2f4b8c8e">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-2f4b8c8e">
-        <div class="pdf-loading" id="pdf-loading-2f4b8c8e"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-dcf9b1d6">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-dcf9b1d6">
+        <div class="pdf-loading" id="pdf-loading-dcf9b1d6"></div>
     </div>
     <div id="overlayText">
-      <a href="/notes/Molecular%20Genetics/Document%2010.pdf" aria-label="Download" download>
+      <a href="/notes/Molecular%20Genetics/rna.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-2f4b8c8e"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-dcf9b1d6"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-2f4b8c8e">
-    <button id="pdf-prev-2f4b8c8e">Previous</button>
-    <button id="pdf-next-2f4b8c8e">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-dcf9b1d6">
+    <button id="pdf-prev-dcf9b1d6">Previous</button>
+    <button id="pdf-next-dcf9b1d6">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-2f4b8c8e"></span> / <span class="pdf-pagecount" id="pdf-pagecount-2f4b8c8e"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-dcf9b1d6"></span> / <span class="pdf-pagecount" id="pdf-pagecount-dcf9b1d6"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-2f4b8c8e" href="/notes/Molecular%20Genetics/Document%2010.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-dcf9b1d6" href="/notes/Molecular%20Genetics/rna.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-2f4b8c8e" href="/notes/Molecular%20Genetics/Document%2010.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-dcf9b1d6" href="/notes/Molecular%20Genetics/rna.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '\/notes\/Molecular Genetics\/Document 10.pdf';
+    var url = '\/notes\/Molecular Genetics\/rna.pdf';
 
     var hidePaginator = "" === "true";
     var hideLoader = "" === "true";
@@ -411,10 +411,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-2f4b8c8e" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-2f4b8c8e'),
+        canvas = document.getElementById('pdf-canvas-dcf9b1d6'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-2f4b8c8e"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-2f4b8c8e');
+        paginator = document.getElementById("pdf-paginator-dcf9b1d6"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-dcf9b1d6');
 
 
     
@@ -452,7 +452,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-2f4b8c8e" href="
       });
 
       
-      document.getElementById('pdf-pagenum-2f4b8c8e').textContent = num;
+      document.getElementById('pdf-pagenum-dcf9b1d6').textContent = num;
     }
 
     
@@ -496,7 +496,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-2f4b8c8e" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-2f4b8c8e').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-dcf9b1d6').addEventListener('click', onPrevPage);
 
     
 
@@ -507,14 +507,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-2f4b8c8e" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-2f4b8c8e').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-dcf9b1d6').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-2f4b8c8e').textContent = numPages;
+      document.getElementById('pdf-pagecount-dcf9b1d6').textContent = numPages;
 
       
       if(pageNum > numPages) {
