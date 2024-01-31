@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to my webpage.</title>
-    <link>https://thepiedpieper.github.io/tags/neurobiology/</link>
+    <link>https://thepiedpieper.github.io/notes/neurobiology/</link>
     <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 09:32:56 +0530</lastBuildDate><atom:link href="https://thepiedpieper.github.io/tags/neurobiology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jan 2024 09:32:56 +0530</lastBuildDate><atom:link href="https://thepiedpieper.github.io/notes/neurobiology/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>Chapter 2 - Principles of Neural Science</title>
         <link>https://thepiedpieper.github.io/notes/neurobiology/chapter-2/</link>
