@@ -95,12 +95,12 @@ Neurons similar to epithelial cells neurons develop from epithelium basolateral 
       </item>
     
       <item>
-        <title>Basics.md</title>
-        <link>https://thepiedpieper.github.io/notes/molecular-genetics/dna-replication/basics/</link>
+        <title>Basics</title>
+        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thepiedpieper.github.io/notes/molecular-genetics/dna-replication/basics/</guid>
-        <description>Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.
+        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</guid>
+        <description>DNA Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.
 At this junction, possible modes of DNA replication: Conservative / Semi-conservative / Dispersive
 Meselson-Stahl Experiment proves replication is semi-conservative Bacteria grown in N(15) medium incorporate N14 in a light medium - CsCl density gradient centrifugation revealed.
 Identification of Replication Fork John Cairns identified the replication fork by allowing replicating DNA in cells to incorporate tritiated thymidine.</description>
@@ -108,20 +108,29 @@ Identification of Replication Fork John Cairns identified the replication fork b
     
       <item>
         <title>Introduction</title>
-        <link>https://thepiedpieper.github.io/notes/molecular-genetics/week-1/</link>
+        <link>https://thepiedpieper.github.io/notes/molgen/week-1/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thepiedpieper.github.io/notes/molecular-genetics/week-1/</guid>
-        <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+        <guid>https://thepiedpieper.github.io/notes/molgen/week-1/</guid>
+        <description>Introduction </description>
+      </item>
+    
+      <item>
+        <title>Regulation of DNA replication</title>
+        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</guid>
+        <description>Regulation </description>
       </item>
     
       <item>
         <title>RNAs</title>
-        <link>https://thepiedpieper.github.io/notes/molecular-genetics/rna/</link>
+        <link>https://thepiedpieper.github.io/notes/molgen/rna/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://thepiedpieper.github.io/notes/molecular-genetics/rna/</guid>
-        <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+        <guid>https://thepiedpieper.github.io/notes/molgen/rna/</guid>
+        <description>RNA </description>
       </item>
     
   </channel>

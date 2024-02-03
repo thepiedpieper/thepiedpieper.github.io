@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hail the Octopus.</title>
+    <link>https://thepiedpieper.github.io/notes/molgen/dnarep/</link>
+    <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://thepiedpieper.github.io/notes/molgen/dnarep/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Basics</title>
+        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</guid>
+        <description>DNA Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.
+At this junction, possible modes of DNA replication: Conservative / Semi-conservative / Dispersive
+Meselson-Stahl Experiment proves replication is semi-conservative Bacteria grown in N(15) medium incorporate N14 in a light medium - CsCl density gradient centrifugation revealed.
+Identification of Replication Fork John Cairns identified the replication fork by allowing replicating DNA in cells to incorporate tritiated thymidine.</description>
+      </item>
+    
+      <item>
+        <title>Regulation of DNA replication</title>
+        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</guid>
+        <description>Regulation </description>
+      </item>
+    
+  </channel>
+</rss>
