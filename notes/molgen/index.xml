@@ -7,12 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://thepiedpieper.github.io/notes/molgen/index.xml" rel="self" type="application/rss+xml" />
       <item>
+        <title>Basics</title>
+        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</guid>
+        <description>DNA Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.
+At this junction, possible modes of DNA replication: Conservative / Semi-conservative / Dispersive
+Meselson-Stahl Experiment proves replication is semi-conservative Bacteria grown in N(15) medium incorporate N14 in a light medium - CsCl density gradient centrifugation revealed.
+Identification of Replication Fork John Cairns identified the replication fork by allowing replicating DNA in cells to incorporate tritiated thymidine.</description>
+      </item>
+    
+      <item>
         <title>Introduction</title>
         <link>https://thepiedpieper.github.io/notes/molgen/week-1/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://thepiedpieper.github.io/notes/molgen/week-1/</guid>
         <description>Introduction </description>
+      </item>
+    
+      <item>
+        <title>Regulation of DNA replication</title>
+        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</guid>
+        <description>Regulation Q. Why don&#39;t somatic cells have telomerases? They prevent the accummulation of harmful mutations in this way.</description>
       </item>
     
       <item>
