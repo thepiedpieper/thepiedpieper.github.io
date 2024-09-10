@@ -12,10 +12,19 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</guid>
-        <description>DNA Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.
-At this junction, possible modes of DNA replication: Conservative / Semi-conservative / Dispersive
-Meselson-Stahl Experiment proves replication is semi-conservative Bacteria grown in N(15) medium incorporate N14 in a light medium - CsCl density gradient centrifugation revealed.
-Identification of Replication Fork John Cairns identified the replication fork by allowing replicating DNA in cells to incorporate tritiated thymidine.</description>
+        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/dna.pdf&#34; &gt;DNA&lt;/a&gt;
+
+Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.&lt;/p&gt;
+&lt;p&gt;At this junction, possible modes of DNA replication:
+Conservative /  Semi-conservative /  Dispersive&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meselson-Stahl Experiment proves replication is semi-conservative&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bacteria grown in N(15) medium incorporate N14 in a light medium - CsCl density gradient centrifugation revealed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identification of Replication Fork&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;John Cairns identified the replication fork by allowing replicating DNA in cells to incorporate tritiated thymidine. Each daughter molecule contains a radioactive strand and a cold strand.&lt;/p&gt;</description>
       </item>
     
       <item>
@@ -24,7 +33,8 @@ Identification of Replication Fork John Cairns identified the replication fork b
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://thepiedpieper.github.io/notes/molgen/repair/</guid>
-        <description>DNA Repair Mechanisms </description>
+        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/MismatchRepair.pdf&#34; &gt;DNA Repair Mechanisms&lt;/a&gt;
+&lt;/p&gt;</description>
       </item>
     
       <item>
@@ -33,7 +43,8 @@ Identification of Replication Fork John Cairns identified the replication fork b
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://thepiedpieper.github.io/notes/molgen/week-1/</guid>
-        <description>Introduction </description>
+        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/week1.pdf&#34; &gt;Introduction&lt;/a&gt;
+&lt;/p&gt;</description>
       </item>
     
       <item>
@@ -42,7 +53,11 @@ Identification of Replication Fork John Cairns identified the replication fork b
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</guid>
-        <description>Regulation Q. Why don&#39;t somatic cells have telomerases? They prevent the accummulation of harmful mutations in this way.</description>
+        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/regulation.pdf&#34; &gt;Regulation&lt;/a&gt;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Q. Why don&#39;t somatic cells have telomerases?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;They prevent the accummulation of harmful mutations in this way.&lt;/p&gt;</description>
       </item>
     
       <item>
@@ -51,7 +66,8 @@ Identification of Replication Fork John Cairns identified the replication fork b
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://thepiedpieper.github.io/notes/molgen/rna/</guid>
-        <description>RNA </description>
+        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/rna.pdf&#34; &gt;RNA&lt;/a&gt;
+&lt;/p&gt;</description>
       </item>
     
       <item>
@@ -60,7 +76,8 @@ Identification of Replication Fork John Cairns identified the replication fork b
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://thepiedpieper.github.io/notes/molgen/transcription/</guid>
-        <description>Transcription </description>
+        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/test.pdf&#34; &gt;Transcription&lt;/a&gt;
+&lt;/p&gt;</description>
       </item>
     
   </channel>
