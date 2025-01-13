@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hail the Octopus.</title>
+    <title>Molecular Genetics on Adrika Chaudhuri</title>
     <link>https://thepiedpieper.github.io/notes/molgen/</link>
-    <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thepiedpieper.github.io/notes/molgen/index.xml" rel="self" type="application/rss+xml" />
-      <item>
-        <title>Basics</title>
-        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/dna.pdf&#34; &gt;DNA&lt;/a&gt;
-
+    <description>Recent content in Molecular Genetics on Adrika Chaudhuri</description>
+    <image>
+      <title>Adrika Chaudhuri</title>
+      <url>https://thepiedpieper.github.io/BG.jpg</url>
+      <link>https://thepiedpieper.github.io/BG.jpg</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <atom:link href="https://thepiedpieper.github.io/notes/molgen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics</title>
+      <link>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/dna.pdf&#34;&gt;DNA&lt;/a&gt;
 Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.&lt;/p&gt;
 &lt;p&gt;At this junction, possible modes of DNA replication:
 Conservative /  Semi-conservative /  Dispersive&lt;/p&gt;
@@ -25,60 +29,44 @@ Conservative /  Semi-conservative /  Dispersive&lt;/p&gt;
 &lt;li&gt;Identification of Replication Fork&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;John Cairns identified the replication fork by allowing replicating DNA in cells to incorporate tritiated thymidine. Each daughter molecule contains a radioactive strand and a cold strand.&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>DNA Repair</title>
-        <link>https://thepiedpieper.github.io/notes/molgen/repair/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/notes/molgen/repair/</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/MismatchRepair.pdf&#34; &gt;DNA Repair Mechanisms&lt;/a&gt;
-&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>Introduction</title>
-        <link>https://thepiedpieper.github.io/notes/molgen/week-1/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/notes/molgen/week-1/</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/week1.pdf&#34; &gt;Introduction&lt;/a&gt;
-&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>Regulation of DNA replication</title>
-        <link>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/regulation.pdf&#34; &gt;Regulation&lt;/a&gt;
-&lt;/p&gt;
+    </item>
+    <item>
+      <title>DNA Repair</title>
+      <link>https://thepiedpieper.github.io/notes/molgen/repair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/repair/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/MismatchRepair.pdf&#34;&gt;DNA Repair Mechanisms&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://thepiedpieper.github.io/notes/molgen/week-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/week-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/week1.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regulation of DNA replication</title>
+      <link>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/regulation.pdf&#34;&gt;Regulation&lt;/a&gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Q. Why don&#39;t somatic cells have telomerases?
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;They prevent the accummulation of harmful mutations in this way.&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>RNAs</title>
-        <link>https://thepiedpieper.github.io/notes/molgen/rna/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/notes/molgen/rna/</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/rna.pdf&#34; &gt;RNA&lt;/a&gt;
-&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>Transcription</title>
-        <link>https://thepiedpieper.github.io/notes/molgen/transcription/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/notes/molgen/transcription/</guid>
-        <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/test.pdf&#34; &gt;Transcription&lt;/a&gt;
-&lt;/p&gt;</description>
-      </item>
-    
+    </item>
+    <item>
+      <title>RNAs</title>
+      <link>https://thepiedpieper.github.io/notes/molgen/rna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/rna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/rna.pdf&#34;&gt;RNA&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transcription</title>
+      <link>https://thepiedpieper.github.io/notes/molgen/transcription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/transcription/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/test.pdf&#34;&gt;Transcription&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

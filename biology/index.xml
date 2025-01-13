@@ -1,36 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hail the Octopus.</title>
+    <title>Biologies on Adrika Chaudhuri</title>
     <link>https://thepiedpieper.github.io/biology/</link>
-    <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thepiedpieper.github.io/biology/index.xml" rel="self" type="application/rss+xml" />
-      <item>
-        <title>Sex Peptide in Drosophila melanogaster</title>
-        <link>https://thepiedpieper.github.io/biology/insects/drosophila/</link>
-        <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/biology/insects/drosophila/</guid>
-        <description>&lt;h1 id=&#34;the-sex-peptide-in-drosophila-melanogaster&#34;&gt;The Sex Peptide in &lt;em&gt;Drosophila melanogaster&lt;/em&gt;&lt;/h1&gt; 
-
+    <description>Recent content in Biologies on Adrika Chaudhuri</description>
+    <image>
+      <title>Adrika Chaudhuri</title>
+      <url>https://thepiedpieper.github.io/BG.jpg</url>
+      <link>https://thepiedpieper.github.io/BG.jpg</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thepiedpieper.github.io/biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Border Cell Migration</title>
+      <link>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</guid>
+      <description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt;
+&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.
+&lt;!-- raw HTML omitted --&gt;How do cells achieve this?&lt;!-- raw HTML omitted --&gt;
+Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Forward genetic analysis  &lt;br&gt;
+This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.
+Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sex Peptide in Drosophila melanogaster</title>
+      <link>https://thepiedpieper.github.io/biology/insects/drosophila/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/insects/drosophila/</guid>
+      <description>&lt;h1 id=&#34;the-sex-peptide-in-drosophila-melanogaster&#34;&gt;The Sex Peptide in &lt;em&gt;Drosophila melanogaster&lt;/em&gt;&lt;/h1&gt;
 &lt;p&gt;melSP is a component of the seminal fluid that induces post mating
 responses in &lt;em&gt;Drosophila&lt;/em&gt; females. It is gradually released by
 proteolytic cleavage and induces several long-term postmating responses
 What does this entail? SP acts on internal sensory neurons expressing
 &lt;em&gt;pickpocket&lt;/em&gt;(ppk). These then induce PMR.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  &lt;h2 id=&#34;classic-post-mating-responses&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#classic-post-mating-responses&#34; title=&#39;Anchor for: Classic Post Mating responses.&#39;&gt;&lt;svg aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;https://thepiedpieper.github.io/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag&#34;/&gt;&lt;/svg&gt;&lt;/a&gt; Classic Post Mating responses&lt;/h2&gt; 
-
+&lt;h2 id=&#34;classic-post-mating-responses&#34;&gt;Classic Post Mating responses&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;elevated egg-laying&lt;/p&gt;
@@ -42,176 +50,28 @@ What does this entail? SP acts on internal sensory neurons expressing
 &lt;p&gt;altered dietary preference(high protein:carbohydrate interference) -
 (testing nutrient deficient flies by activating this group of
 neurons?)&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>The Plains Cupid</title>
-        <link>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</link>
-        <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</guid>
-        <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-    
-    
-      
-      
-        &lt;img
-          
-          loading=&#34;lazy&#34;
-          src=&#34;https://thepiedpieper.github.io/images/Above.jpg&#34;
-          alt=&#34;A gram blue.&#34;
-        /&gt;
-      
-    
-    
-  
-  
-
-&lt;/p&gt;
+    </item>
+    <item>
+      <title>The Plains Cupid</title>
+      <link>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;A gram blue.&#34; loading=&#34;lazy&#34; src=&#34;https://thepiedpieper.github.io/images/Above.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Subject&lt;/em&gt; - The Plains Cupid (&lt;em&gt;Luthrodes pandava&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;Long afternoon walks are the best thing to happen to raccoon-eyed college students who have taken to living in the library. Especially if you are intercepted by these pretty sights; they flit about in the bushes, and dance nimbly on the slender stalks of coatbuttons, and overall, make a torrid summer more bearable.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-    
-    
-      
-      
-        &lt;img
-          
-          loading=&#34;lazy&#34;
-          src=&#34;https://thepiedpieper.github.io/images/IMG_20230622_224325.jpg&#34;
-          
-        /&gt;
-      
-    
-    
-  
-  
-
-
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://thepiedpieper.github.io/images/IMG_20230622_224325.jpg&#34;&gt;
 A male wet season brood&lt;/p&gt;
 &lt;p&gt;These butterflies belong to the Lycaenidae family (tribe Polyommatini) of butterflies, (the second-largest family of butterflies behind Nymphalidae, or the brush footed butterflies), whose members are called gossamer-winged butterflies.&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>Border Cell Migration</title>
-        <link>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</link>
-        <pubDate>Sat, 13 Jan 2024 09:32:56 +0530</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</guid>
-        <description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt; 
-
-&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.
-&lt;!-- raw HTML omitted --&gt;How do cells achieve this?&lt;!-- raw HTML omitted --&gt;
-Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Forward genetic analysis  &lt;br&gt;
-This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.
-Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>The Common Clubtail</title>
-        <link>https://thepiedpieper.github.io/biology/insects/commonclubtail/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/biology/insects/commonclubtail/</guid>
-        <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-    
-    
-      
-      
-        &lt;img
-          
-          loading=&#34;lazy&#34;
-          src=&#34;https://thepiedpieper.github.io/images/club.jpeg&#34;
-          
-        /&gt;
-      
-    
-    
-  
-  
-
-&lt;/p&gt;
+    </item>
+    <item>
+      <title>The Common Clubtail</title>
+      <link>https://thepiedpieper.github.io/biology/insects/commonclubtail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/insects/commonclubtail/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://thepiedpieper.github.io/images/club.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Living in a college on the outskirts of acres of farmland and dense shrubbery might be a bit boring, but it has its perks. I came across this one in front of my room.&lt;/p&gt;
 &lt;p&gt;The Indian Common Clubtail dragonfly, Ictinogomphus rapax, is found all over India. It&amp;rsquo;s a large yellow and black coloured dragonfly with bluish-grey ommatidia.&lt;/p&gt;
 &lt;p&gt;The name refers to the club-like widening of the end of the abdomen (abdominal segments 7 through 9). However, this club is usually less pronounced in females and is entirely absent in some species.&lt;/p&gt;</description>
-      </item>
-    
+    </item>
   </channel>
 </rss>

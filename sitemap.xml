@@ -1,210 +1,101 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/birds/streaked-spiderhunter/</loc>
-      
-      
-        <lastmod>2024-01-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/biology/insects/drosophila/</loc>
-      
-      
-        <lastmod>2024-01-18T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/birds/the-black-headed-ibis/</loc>
-      
-      
-        <lastmod>2024-01-17T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</loc>
-      
-      
-        <lastmod>2024-01-16T00:00:00+00:00</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</loc>
-      
-      
-        <lastmod>2024-01-13T09:32:56+05:30</lastmod>
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/notes/molgen/repair/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/notes/molgen/week-1/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/notes/molgen/rna/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/biology/insects/commonclubtail/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/literature/philosophy/grayling/ancient/taa/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
-  
-    <url>
-      <loc>https://thepiedpieper.github.io/notes/molgen/transcription/</loc>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </url>
-    
-  
+  <url>
+    <loc>https://thepiedpieper.github.io/tags/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/about/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/biology/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/biology/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/migration/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/birds/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/birds/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/small-birds/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/birds/streaked-spiderhunter/</loc>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/insects/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/biology/insects/drosophila/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/birds/the-black-headed-ibis/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/waterbirds/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/butterfly/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/monsoon/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/literature/philosophy/grayling/ancient/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/literature/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/categories/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/cellbio/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/music/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/repair/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/evobio/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/immunology/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/week-1/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/microbiology/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/neurobiology/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/literature/philosophy/grayling/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/literature/philosophy/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/dnarep/regulation/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/rna/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/biology/insects/commonclubtail/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/literature/philosophy/grayling/ancient/taa/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/transcription/</loc>
+  </url>
 </urlset>

@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hail the Octopus.</title>
+    <title>Cell Biology on Adrika Chaudhuri</title>
     <link>https://thepiedpieper.github.io/notes/cellbio/</link>
-    <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thepiedpieper.github.io/notes/cellbio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Cell Biology on Adrika Chaudhuri</description>
+    <image>
+      <title>Adrika Chaudhuri</title>
+      <url>https://thepiedpieper.github.io/BG.jpg</url>
+      <link>https://thepiedpieper.github.io/BG.jpg</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <atom:link href="https://thepiedpieper.github.io/notes/cellbio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

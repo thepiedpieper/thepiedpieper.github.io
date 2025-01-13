@@ -1,36 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hail the Octopus.</title>
+    <title>Biology on Adrika Chaudhuri</title>
     <link>https://thepiedpieper.github.io/tags/biology/</link>
-    <description>Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thepiedpieper.github.io/tags/biology/index.xml" rel="self" type="application/rss+xml" />
-      <item>
-        <title>Sex Peptide in Drosophila melanogaster</title>
-        <link>https://thepiedpieper.github.io/biology/insects/drosophila/</link>
-        <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/biology/insects/drosophila/</guid>
-        <description>&lt;h1 id=&#34;the-sex-peptide-in-drosophila-melanogaster&#34;&gt;The Sex Peptide in &lt;em&gt;Drosophila melanogaster&lt;/em&gt;&lt;/h1&gt; 
-
+    <description>Recent content in Biology on Adrika Chaudhuri</description>
+    <image>
+      <title>Adrika Chaudhuri</title>
+      <url>https://thepiedpieper.github.io/BG.jpg</url>
+      <link>https://thepiedpieper.github.io/BG.jpg</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thepiedpieper.github.io/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Border Cell Migration</title>
+      <link>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</guid>
+      <description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt;
+&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.
+&lt;!-- raw HTML omitted --&gt;How do cells achieve this?&lt;!-- raw HTML omitted --&gt;
+Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Forward genetic analysis  &lt;br&gt;
+This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.
+Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sex Peptide in Drosophila melanogaster</title>
+      <link>https://thepiedpieper.github.io/biology/insects/drosophila/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/insects/drosophila/</guid>
+      <description>&lt;h1 id=&#34;the-sex-peptide-in-drosophila-melanogaster&#34;&gt;The Sex Peptide in &lt;em&gt;Drosophila melanogaster&lt;/em&gt;&lt;/h1&gt;
 &lt;p&gt;melSP is a component of the seminal fluid that induces post mating
 responses in &lt;em&gt;Drosophila&lt;/em&gt; females. It is gradually released by
 proteolytic cleavage and induces several long-term postmating responses
 What does this entail? SP acts on internal sensory neurons expressing
 &lt;em&gt;pickpocket&lt;/em&gt;(ppk). These then induce PMR.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  &lt;h2 id=&#34;classic-post-mating-responses&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#classic-post-mating-responses&#34; title=&#39;Anchor for: Classic Post Mating responses.&#39;&gt;&lt;svg aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;https://thepiedpieper.github.io/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#hashtag&#34;/&gt;&lt;/svg&gt;&lt;/a&gt; Classic Post Mating responses&lt;/h2&gt; 
-
+&lt;h2 id=&#34;classic-post-mating-responses&#34;&gt;Classic Post Mating responses&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;elevated egg-laying&lt;/p&gt;
@@ -42,24 +50,6 @@ What does this entail? SP acts on internal sensory neurons expressing
 &lt;p&gt;altered dietary preference(high protein:carbohydrate interference) -
 (testing nutrient deficient flies by activating this group of
 neurons?)&lt;/p&gt;</description>
-      </item>
-    
-      <item>
-        <title>Border Cell Migration</title>
-        <link>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</link>
-        <pubDate>Sat, 13 Jan 2024 09:32:56 +0530</pubDate>
-        
-        <guid>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</guid>
-        <description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt; 
-
-&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.
-&lt;!-- raw HTML omitted --&gt;How do cells achieve this?&lt;!-- raw HTML omitted --&gt;
-Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Forward genetic analysis  &lt;br&gt;
-This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.
-Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
-      </item>
-    
+    </item>
   </channel>
 </rss>
