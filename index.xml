@@ -9,7 +9,7 @@
       <url>https://thepiedpieper.github.io/BG.jpg</url>
       <link>https://thepiedpieper.github.io/BG.jpg</link>
     </image>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thepiedpieper.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -101,6 +101,13 @@ A male wet season brood&lt;/p&gt;
 &lt;p&gt;The text is a mostly, almost, deceptively simple dialogue between a somewhat disturbed &lt;strong&gt;Hieron&lt;/strong&gt;, tyrant of Syracuse, who, in a moment of leisure, engages in coversation with the poet, &lt;strong&gt;Simonides&lt;/strong&gt;. Simonides asks Hieron to use his experience to shed light on the difference between the life of a &amp;lsquo;private man&amp;rsquo;, and that of a tyrant.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>An Overview of Neuroethology and the topics covered here</title>
+      <link>https://thepiedpieper.github.io/biology/neuroethology/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/neuroethology/basics/</guid>
+      <description>&lt;p&gt;As far as behavior is concerned, it primarily is a response that an animal comes up with as a result of some stimulus. &lt;em&gt;Neurothologists&lt;/em&gt; look at this phenomenon somewhat mechanistically - with an aim to unromanticise (?) it, trying to understand how eactly the central nervous system controls an animal&amp;rsquo;s response to their environment. We are supposed to concern ourselves with rather simple behaviours - sadly, the conceptual, and the technical difficulties one would have to undergo to deal with something more complex, is quite huge.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Basics</title>
       <link>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,6 +138,22 @@ Conservative /  Semi-conservative /  Dispersive&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thepiedpieper.github.io/notes/molgen/week-1/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/week1.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neural Mechanisms of Behavior</title>
+      <link>https://thepiedpieper.github.io/biology/neuroethology/ch1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/neuroethology/ch1/</guid>
+      <description>&lt;h1 id=&#34;neural-mechanisms-of-behavior&#34;&gt;Neural Mechanisms of Behavior&lt;/h1&gt;
+&lt;p&gt;Now that we have established the foundation of neuroethology, let&amp;rsquo;s dive deeper into the &lt;strong&gt;neural mechanisms that control behavior.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-neural-basis-of-behavior&#34;&gt;The Neural Basis of Behavior&lt;/h2&gt;
+&lt;p&gt;Every behavior—whether as simple as a reflex or as complex as decision-making—arises from &lt;strong&gt;neuronal circuits&lt;/strong&gt;. Neuroethologists investigate:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Sensory Processing&lt;/strong&gt; – How animals perceive stimuli.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Neural Integration&lt;/strong&gt; – How sensory information is processed and transformed into a response.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Motor Output&lt;/strong&gt; – How the nervous system generates movement.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These steps define an &lt;strong&gt;input-processing-output&lt;/strong&gt; framework:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Regulation of DNA replication</title>
