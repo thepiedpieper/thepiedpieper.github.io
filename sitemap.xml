@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thepiedpieper.github.io/tags/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepiedpieper.github.io/tags/about/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thepiedpieper.github.io/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,7 +32,7 @@
     <loc>https://thepiedpieper.github.io/tags/insects/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepiedpieper.github.io/biology/insects/drosophila/</loc>
+    <loc>https://thepiedpieper.github.io/birds/drosophila/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepiedpieper.github.io/birds/the-black-headed-ibis/</loc>
@@ -53,10 +47,20 @@
     <loc>https://thepiedpieper.github.io/tags/monsoon/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</loc>
+    <loc>https://thepiedpieper.github.io/birds/the-plains-cupid/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://thepiedpieper.github.io/birds/laotianrockrat/</loc>
+  </url><url>
     <loc>https://thepiedpieper.github.io/literature/philosophy/discussions/hiero/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/notes/molgen/cheatsheet/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/tags/about/</loc>
+  </url><url>
+    <loc>https://thepiedpieper.github.io/biology/neuroethology/adhd/</loc>
   </url><url>
     <loc>https://thepiedpieper.github.io/biology/neuroethology/basics/</loc>
   </url><url>
@@ -102,7 +106,7 @@
   </url><url>
     <loc>https://thepiedpieper.github.io/notes/</loc>
   </url><url>
-    <loc>https://thepiedpieper.github.io/biology/insects/commonclubtail/</loc>
+    <loc>https://thepiedpieper.github.io/birds/commonclubtail/</loc>
   </url><url>
     <loc>https://thepiedpieper.github.io/literature/philosophy/grayling/ancient/taa/</loc>
   </url><url>

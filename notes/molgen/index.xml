@@ -9,9 +9,24 @@
       <url>https://thepiedpieper.github.io/BG.jpg</url>
       <link>https://thepiedpieper.github.io/BG.jpg</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://thepiedpieper.github.io/notes/molgen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://thepiedpieper.github.io/notes/molgen/cheatsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/cheatsheet/</guid>
+      <description>&lt;p&gt;Just a cheatsheet for protein expression and cloning:&lt;/p&gt;
+&lt;h3 id=&#34;expression-vectors&#34;&gt;Expression Vectors&lt;/h3&gt;
+&lt;p&gt;Feature | pET | pBAD | pQE | pGEX
+Promoter | T7 (requires T7 polymerase) | AraBAD | T5 | Tac
+Inducible Expression | IPTG | Arabinose | IPTG | IPTG
+Fusion Tags | His-tag (6x) | His-tag (6x) | His-tag (6x) | GST (Glutathione-S-transferase)
+Advantages | High-level expression | Tight control, low basal expression | High-level expression | Solubility and purification with GST tag
+Disadvantages | Inclusion bodies, requires special host | Less efficient than IPTG induction | Inclusion bodies | GST tag can affect protein function
+Best For | High-expression, large-scale protein production | Toxic proteins, low basal expression | High-yield protein production | Protein interaction studies, solubility issues&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Basics</title>
       <link>https://thepiedpieper.github.io/notes/molgen/dnarep/basics/</link>

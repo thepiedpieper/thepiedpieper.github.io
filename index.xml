@@ -9,7 +9,7 @@
       <url>https://thepiedpieper.github.io/BG.jpg</url>
       <link>https://thepiedpieper.github.io/BG.jpg</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thepiedpieper.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -40,9 +40,9 @@ Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;
     </item>
     <item>
       <title>Sex Peptide in Drosophila melanogaster</title>
-      <link>https://thepiedpieper.github.io/biology/insects/drosophila/</link>
+      <link>https://thepiedpieper.github.io/birds/drosophila/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thepiedpieper.github.io/biology/insects/drosophila/</guid>
+      <guid>https://thepiedpieper.github.io/birds/drosophila/</guid>
       <description>&lt;h1 id=&#34;the-sex-peptide-in-drosophila-melanogaster&#34;&gt;The Sex Peptide in &lt;em&gt;Drosophila melanogaster&lt;/em&gt;&lt;/h1&gt;
 &lt;p&gt;melSP is a component of the seminal fluid that induces post mating
 responses in &lt;em&gt;Drosophila&lt;/em&gt; females. It is gradually released by
@@ -79,15 +79,22 @@ are also black.&lt;/p&gt;
     </item>
     <item>
       <title>The Plains Cupid</title>
-      <link>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</link>
+      <link>https://thepiedpieper.github.io/birds/the-plains-cupid/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thepiedpieper.github.io/biology/insects/butterflies/the-plains-cupid/</guid>
+      <guid>https://thepiedpieper.github.io/birds/the-plains-cupid/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;A gram blue.&#34; loading=&#34;lazy&#34; src=&#34;https://thepiedpieper.github.io/images/Above.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Subject&lt;/em&gt; - The Plains Cupid (&lt;em&gt;Luthrodes pandava&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;Long afternoon walks are the best thing to happen to raccoon-eyed college students who have taken to living in the library. Especially if you are intercepted by these pretty sights; they flit about in the bushes, and dance nimbly on the slender stalks of coatbuttons, and overall, make a torrid summer more bearable.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://thepiedpieper.github.io/images/IMG_20230622_224325.jpg&#34;&gt;
 A male wet season brood&lt;/p&gt;
 &lt;p&gt;These butterflies belong to the Lycaenidae family (tribe Polyommatini) of butterflies, (the second-largest family of butterflies behind Nymphalidae, or the brush footed butterflies), whose members are called gossamer-winged butterflies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thepiedpieper.github.io/birds/laotianrockrat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/birds/laotianrockrat/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
@@ -99,6 +106,261 @@ A male wet season brood&lt;/p&gt;
 &lt;p&gt;This is the &lt;a href=&#34;https://www.gutenberg.org/files/1175/1175-h/1175-h.htm#link2H_4_0002&#34;&gt;original text&lt;/a&gt;, and a relevant work by Leo Strauss can be found &lt;a href=&#34;https://www.bard.edu/library/arendt/pdfs/Strauss-Tyranny.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Xenophon&amp;rsquo;s &lt;em&gt;Hiero&lt;/em&gt; is devoted entirely to a discussion on tyranny, and quite akin to many of his works, demonstrate his interest in describing leadership, and the qualities that are essential for this purpose.&lt;/p&gt;
 &lt;p&gt;The text is a mostly, almost, deceptively simple dialogue between a somewhat disturbed &lt;strong&gt;Hieron&lt;/strong&gt;, tyrant of Syracuse, who, in a moment of leisure, engages in coversation with the poet, &lt;strong&gt;Simonides&lt;/strong&gt;. Simonides asks Hieron to use his experience to shed light on the difference between the life of a &amp;lsquo;private man&amp;rsquo;, and that of a tyrant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thepiedpieper.github.io/notes/molgen/cheatsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/notes/molgen/cheatsheet/</guid>
+      <description>&lt;p&gt;Just a cheatsheet for protein expression and cloning:&lt;/p&gt;
+&lt;h3 id=&#34;expression-vectors&#34;&gt;Expression Vectors&lt;/h3&gt;
+&lt;p&gt;Feature | pET | pBAD | pQE | pGEX
+Promoter | T7 (requires T7 polymerase) | AraBAD | T5 | Tac
+Inducible Expression | IPTG | Arabinose | IPTG | IPTG
+Fusion Tags | His-tag (6x) | His-tag (6x) | His-tag (6x) | GST (Glutathione-S-transferase)
+Advantages | High-level expression | Tight control, low basal expression | High-level expression | Solubility and purification with GST tag
+Disadvantages | Inclusion bodies, requires special host | Less efficient than IPTG induction | Inclusion bodies | GST tag can affect protein function
+Best For | High-expression, large-scale protein production | Toxic proteins, low basal expression | High-yield protein production | Protein interaction studies, solubility issues&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thepiedpieper.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/tags/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34; data-mode=&#34;light&#34;&gt;
+  &lt;head prefix=&#34;og: http://ogp.me/ns#&#34;&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+&lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.121.2&#34;&gt;
+&lt;meta name=&#34;theme&#34; content=&#34;Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world&#34;&gt;
+
+
+&lt;title&gt;Tags&lt;/title&gt;
+
+
+&lt;meta name=&#34;description&#34; content=&#34;Page containing Tags.&#34;&gt;
+
+
+&lt;meta name=&#34;robots&#34; content=&#34;index follow&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;meta property=&#34;og:site_name&#34; content=&#34;Welcome to my webpage.&#34;&gt;
+&lt;meta property=&#34;og:title&#34; content=&#34;Tags&#34;&gt;
+&lt;meta property=&#34;og:description&#34; content=&#34;Page containing Tags.&#34;&gt;
+  &lt;meta property=&#34;og:url&#34; content=&#34;https://thepiedpieper.github.io/tags/&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;meta property=&#34;og:type&#34; content=&#34;website&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+  &lt;link rel=&#34;alternate&#34; type=&#34;application/rss+xml&#34; href=&#34;https://thepiedpieper.github.io/tags/index.xml&#34; title=&#34;Welcome to my webpage.&#34;&gt;
+
+
+
+
+
+
+
+
+&lt;meta name=&#34;theme-color&#34; content=&#34;#222&#34;&gt;
+
+&lt;meta name=&#34;apple-mobile-web-app-capable&#34; content=&#34;yes&#34;&gt;
+&lt;meta name=&#34;apple-mobile-web-app-status-bar-style&#34; content=&#34;default&#34;&gt;
+
+
+
+
+
+
+
+  &lt;script type=&#34;application/ld+json&#34;&gt;
+    {
+      &#34;@context&#34;: &#34;https://schema.org&#34;,
+      &#34;@type&#34;: &#34;WebSite&#34;,
+      &#34;url&#34;: &#34;https://thepiedpieper.github.io/&#34;,
+      &#34;inLanguage&#34;: &#34;en&#34;,
+      &#34;name&#34;: &#34;Welcome to my webpage.&#34;,
+      &#34;description&#34;: &#34;Hi! I am Adrika, a second year undergrad at IISER Kolkata. I like long hikes, birdwatching, reading, and cooking. Have a nice day!&#34;,
+      &#34;publisher&#34;: &#34;&#34;
+    }
+  &lt;/script&gt;
+
+
+
+
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://thepiedpieper.github.io/css/main.min.b150cc6f81019af72a304bebc491926a4a3823722366ae014ef294070cdb615e.css&#34; integrity=&#34;sha256-sVDMb4EBmvcqMEvrxJGSako4I3IjZq4BTvKUBwzbYV4=&#34; crossorigin=&#34;anonymous&#34;&gt;
+
+
+
+&lt;noscript&gt;
+
+  
+  
+
+  
+    &lt;meta name=&#34;theme-color&#34; content=&#34;1dbc91&#34; media=&#34;(prefers-color-scheme: dark)&#34;&gt;
+    &lt;meta name=&#34;theme-color&#34; content=&#34;1f676b&#34; media=&#34;(prefers-color-scheme: light)&#34;&gt;
+  
+
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://thepiedpieper.github.io/css/noscript.min.c63aa197c1cdbb9146936f72b208955bb7257979da77fce3911555309716908d.css&#34; integrity=&#34;sha256-xjqhl8HNu5FGk29ysgiVW7cleXnad/zjkRVVMJcWkI0=&#34; crossorigin=&#34;anonymous&#34;&gt;
+
+&lt;/noscript&gt;
+
+
+
+&lt;link rel=&#34;preload&#34; href=&#34;https://thepiedpieper.github.io/fonts/open-sans-v34-latin-700.woff2&#34; as=&#34;font&#34; crossorigin=&#34;anonymous&#34;&gt;
+&lt;link rel=&#34;preload&#34; href=&#34;https://thepiedpieper.github.io/fonts/open-sans-v34-latin-italic.woff2&#34; as=&#34;font&#34; crossorigin=&#34;anonymous&#34;&gt;
+&lt;link rel=&#34;preload&#34; href=&#34;https://thepiedpieper.github.io/fonts/open-sans-v34-latin-regular.woff2&#34; as=&#34;font&#34; crossorigin=&#34;anonymous&#34;&gt;
+&lt;link rel=&#34;preload&#34; href=&#34;https://thepiedpieper.github.io/fonts/oswald-v29-latin-700.woff2&#34; as=&#34;font&#34; crossorigin=&#34;anonymous&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;script src=&#34;https://thepiedpieper.github.io/js/main.e825f7044baffdc7a30a63e6a25f9fb77c953bb2609eb106c059c15274e099a5.js&#34; integrity=&#34;sha256-6CX3BEuv/cejCmPmol&amp;#43;ft3yVO7JgnrEGwFnBUnTgmaU=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+  &lt;/head&gt;
+
+  &lt;body&gt;
+
+    &lt;header&gt;
+      
+
+  &lt;a href=&#34;https://thepiedpieper.github.io/&#34;&gt;Welcome to my webpage.&lt;/a&gt;
+
+
+
+
+
+    &lt;/header&gt;
+
+    &lt;div class=&#34;filler&#34;&gt;
+      
+  
+  
+
+  
+  
+
+  &lt;main class=&#34;list&#34;&gt;
+
+    
+    
+    
+    &lt;h1&gt;Tags&lt;/h1&gt;
+    
+    
+      
+        &lt;ul class=&#34;terms&#34;&gt;
+  
+    &lt;li&gt;&lt;a class=&#34;btn&#34; href=&#34;https://thepiedpieper.github.io/tags/biology/&#34; title=&#34;biology (1)&#34;&gt;biology&lt;span&gt;1&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li&gt;&lt;a class=&#34;btn&#34; href=&#34;https://thepiedpieper.github.io/tags/monsoon-butterfly-insects/&#34; title=&#34;Monsoon, butterfly, insects (1)&#34;&gt;Monsoon, butterfly, insects&lt;span&gt;1&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+
+      
+    
+
+  &lt;/main&gt;
+  
+
+    &lt;/div&gt;
+    
+    &lt;footer&gt;
+      
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;req-js&#34;&gt;
+  &lt;button class=&#34;outline-dashed&#34; title=&#34;Change to light/dark mode.&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34;&gt;&lt;use xlink:href=&#34;https://thepiedpieper.github.io/img/bundle.min.ae45e7a9a0a65150dd900a58f35fe84d.svg#adjust&#34;/&gt;&lt;/svg&gt;&lt;/button&gt;&lt;input class=&#34;outline-dashed&#34; type=&#34;color&#34; list=&#34;presets&#34; value=&#34;1f676b&#34; title=&#34;Change accent color.&#34; aria-label=&#34;Change accent color.&#34;&gt;&lt;datalist id=&#34;presets&#34;&gt;&lt;option value=&#34;1f676b&#34;&gt;&lt;option value=&#34;1dbc91&#34;&gt;&lt;/datalist&gt;
+&lt;/div&gt;
+
+
+
+
+
+    &lt;/footer&gt;
+    
+    
+    
+
+    
+    
+
+  &lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    <item>
+      <title>ADHD and X chromosome inactivation</title>
+      <link>https://thepiedpieper.github.io/biology/neuroethology/adhd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/neuroethology/adhd/</guid>
+      <description>&lt;h1 id=&#34;x-chromosome-inactivation-in-neurodevelopmental-diseases&#34;&gt;X chromosome inactivation in neurodevelopmental diseases&lt;/h1&gt;
+&lt;p&gt;In mammalian systems (humans here), the female has two X chromosomes, while the male has one - the X chromosome is not only necessary for sexual dimorphism, but also has protein coding genes important in neurodevelopment and functioning. As a form of dosage compensation to prevent overproduction of these proteins in females, one of the X chromosomes is randomly inactivated independently in all cells in early mammalian development (8 cell stage) . &lt;strong&gt;This leads to mosaicism in females&lt;/strong&gt;, which leads to greater genetic variability in females, as well as potential heterozygote advantage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Overview of Neuroethology and the topics covered here</title>
@@ -174,9 +436,9 @@ Conservative /  Semi-conservative /  Dispersive&lt;/p&gt;
     </item>
     <item>
       <title>The Common Clubtail</title>
-      <link>https://thepiedpieper.github.io/biology/insects/commonclubtail/</link>
+      <link>https://thepiedpieper.github.io/birds/commonclubtail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://thepiedpieper.github.io/biology/insects/commonclubtail/</guid>
+      <guid>https://thepiedpieper.github.io/birds/commonclubtail/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://thepiedpieper.github.io/images/club.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Living in a college on the outskirts of acres of farmland and dense shrubbery might be a bit boring, but it has its perks. I came across this one in front of my room.&lt;/p&gt;
 &lt;p&gt;The Indian Common Clubtail dragonfly, Ictinogomphus rapax, is found all over India. It&amp;rsquo;s a large yellow and black coloured dragonfly with bluish-grey ommatidia.&lt;/p&gt;
