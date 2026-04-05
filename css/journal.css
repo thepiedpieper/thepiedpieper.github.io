@@ -388,3 +388,52 @@ body.dark .taped-note::before {
   box-shadow: 8px 12px 30px rgba(0,0,0,0.4) !important;
   z-index: 100;
 }
+/* --- 13. MOBILE RESPONSIVENESS (PHONES & TABLETS) --- */
+@media (max-width: 768px) {
+  
+  /* 1. BRING THE STICKERS BACK (Pocket Sized) */
+  .botanical-scrap {
+    display: block !important;       /* Un-hide them! */
+    width: 180px !important;         /* Shrink from 500px to a cute mobile size */
+    opacity: 0.4 !important;         /* Fade them so text remains readable on top */
+    z-index: 0 !important;           /* Tuck them behind your cards and text */
+  }
+
+  /* The Magic Trick: Overriding your hardcoded HTML positions */
+  .botanical-scrap[style*="right"] {
+    right: -40px !important; /* Just peeking in from the right edge */
+  }
+  
+  .botanical-scrap[style*="left"] {
+    left: -40px !important; /* Just peeking in from the left edge */
+  }
+  
+  /* 2. Shrink the main container padding */
+  .list-container {
+    padding: 2rem 15px !important;
+  }
+  
+  /* 3. Make sure the gallery polaroids don't overflow */
+  .field-photo, .sketch-gallery-card {
+    width: 100% !important;
+    max-width: 320px !important; 
+    margin: 1.5rem auto !important; 
+  }
+
+  /* 4. Tame the taped notes */
+  .taped-note {
+    margin: 2rem 0 !important;
+    padding: 1.2rem !important;
+  }
+
+  /* 5. Scale down the giant header text */
+  h1 {
+    font-size: 2.2rem !important;
+  }
+  
+  /* 6. Keep the dark mode toggle easily tappable */
+  #dark-mode-toggle {
+    top: 80px !important;
+    padding: 0.4rem 0.8rem !important;
+  }
+}
