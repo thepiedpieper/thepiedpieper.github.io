@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Adrika Chaudhuri</title>
     <link>https://thepiedpieper.github.io/tags/about/</link>
     <description>Recent content in About on Adrika Chaudhuri</description>
-    <image>
-      <title>Adrika Chaudhuri</title>
-      <url>https://thepiedpieper.github.io/BG.jpg</url>
-      <link>https://thepiedpieper.github.io/BG.jpg</link>
-    </image>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://thepiedpieper.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adrika Chaudhuri</title>
+      <link>https://thepiedpieper.github.io/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;Me.jpeg&#34; alt=&#34;Me&#34; title=&#34;Me&#34;&gt;&#xA;Hey, I’m Adrika, a fourth-year undergrad at IISER Kolkata. I am majoring in Biology and minoring in Physics. I like behavioral neurobiology, modelling different systems, and studying how behavior changes with context to learning and social interaction. I have grown to appreciate how collective interactions always lead to emergent phenomena in a scale-invariant manner, and I am switching to mechanobiology of collective cell migration in MDCK II sheets for my MS thesis next sem onwards.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

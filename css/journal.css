@@ -1,0 +1,390 @@
+:root {
+  /* High-Contrast "Crisp Moleskine" Palette */
+  --bg-color: #FAFAF7;       
+  --text-color: #111111;     
+  --accent-color: #E64833;   
+  --link-color: #246B9C;     
+  --fade-text: #7A7A7A;      
+  --tape-color: rgba(255, 255, 255, 0.85); 
+}
+
+/* --- 1. THE FLAP KILLER --- */
+/* Obliterates Hugo's default white headers/footers so they don't block stickers */
+header, .header, #header,
+footer, .footer, #footer,
+.site-header, .site-footer {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  z-index: 1 !important; 
+  position: relative !important;
+}
+
+/* --- 2. CORE LAYOUT & SCROLL --- */
+html {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh; 
+  overflow: visible; 
+  /* NO background colors here anymore! */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%; 
+  min-height: 100vh;
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  -webkit-overflow-scrolling: touch; 
+  scroll-behavior: smooth;
+  
+  color: var(--text-color);
+  font-family: 'Literata', serif !important;
+  line-height: 1.6;
+  /* NO background colors here anymore either! */
+}
+
+/* --- 3. THE BULLETPROOF BACKGROUND WALLPAPER --- */
+/* This paints the dots permanently to the screen, behind everything */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -100;
+  
+  /* The Light Mode Dot Grid */
+  background-color: #FCFAF8; 
+  background-image: radial-gradient(#D6D0C4 1px, transparent 1px);
+  background-size: 25px 25px;
+  background-position: center top;
+}
+
+/* --- 4. THE GPU BOOSTED BOTANICALS --- */
+.botanical-scrap {
+  position: absolute;
+  opacity: 0.95; 
+  mix-blend-mode: darken; 
+  z-index: 90;
+  pointer-events: none;
+  will-change: transform;
+  transform: translateZ(0); 
+}
+
+/* --- 5. SCRAPBOOK ELEMENTS --- */
+.torn-paper {
+  background-color: #C8AC8F; 
+  color: #2b2a27 !important;
+  padding: 2rem;
+  margin: 2rem 0;
+  position: relative;
+  clip-path: polygon(1% 0, 98% 2%, 100% 98%, 2% 100%, 0 95%, 1% 50%, 0 5%);
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+  transform: rotate(-1deg);
+}
+
+.washi {
+  position: absolute;
+  height: 22px;
+  opacity: 0.85;
+  mix-blend-mode: multiply;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.washi.sage { background-color: #A5BA9B; } 
+.washi.blush { background-color: #E2A9B2; } 
+.washi.plaid { 
+  background-color: #F4EAE2;
+  background-image: 
+    linear-gradient(rgba(200, 150, 150, 0.4) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(200, 150, 150, 0.4) 1px, transparent 1px);
+  background-size: 6px 6px;
+}
+
+/* --- 6. TYPOGRAPHY & LINKS --- */
+body, h1, h2, h3, p, li, span, div, main, article {
+  font-family: 'Literata', serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color) !important;
+}
+
+a {
+  color: var(--link-color) !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-color) !important; 
+}
+
+nav a {
+  border-bottom: 2px solid var(--accent-color) !important; 
+  color: var(--text-color) !important;
+  font-weight: bold;
+  padding-bottom: 2px;
+}
+
+nav a:hover {
+  color: var(--accent-color) !important;
+  border-bottom: 2px solid var(--link-color) !important; 
+}
+
+.annotation {
+  font-family: 'Caveat', cursive !important;
+  color: var(--fade-text);
+  font-size: 1.4rem;
+  transform: rotate(-2deg); 
+  display: inline-block;
+}
+
+/* --- 7. PHYSICAL NOTES & PHOTOS --- */
+.taped-note {
+  position: relative;
+  background: #FEF9E7; 
+  padding: 1.8rem;
+  margin: 3rem 1rem;
+  box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.08); 
+  border: 1px solid rgba(0, 0, 0, 0.03);
+  transform: rotate(1.5deg);
+}
+
+.taped-note::before {
+  content: "";
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-4deg);
+  width: 100px;
+  height: 28px;
+  background-color: var(--tape-color); 
+  border: 1px solid rgba(0, 0, 0, 0.06); 
+  backdrop-filter: blur(3px); 
+}
+
+.sketch-img {
+  width: 85%;
+  max-width: 500px;
+  display: block;
+  mix-blend-mode: multiply; 
+  border: 8px solid #FFFFFF; 
+  box-shadow: 4px 6px 20px rgba(0,0,0,0.08); 
+  margin: 2rem auto 2rem 5%; 
+}
+
+.journal-bookmark {
+  position: fixed;
+  top: 2rem;
+  left: -5px; 
+  z-index: 1000;
+  background: var(--bg-color);
+  padding: 0.4rem 1rem 0.4rem 1.5rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-left: none;
+  border-radius: 0 4px 4px 0; 
+  transform: rotate(1deg); 
+}
+
+.journal-bookmark a {
+  font-family: 'Caveat', cursive !important;
+  font-size: 1.4rem;
+  color: var(--accent-color) !important;
+}
+
+/* --- 8. MARKDOWN CONTENT STYLING --- */
+.journal-content h2, 
+.journal-content h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid transparent;
+  border-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%' height='3' %3E%3Cpath d='M0 1.5 C50 0, 100 3, 150 0 C200 3, 250 0, 300 1.5' stroke='%23E64833' stroke-width='2' fill='none'/%3E%3C/svg%3E") 1;
+}
+
+.journal-content img {
+  border: 4px solid #FFFFFF;
+  box-shadow: 1px 3px 10px rgba(0,0,0,0.08);
+  transform: rotate(-0.5deg);
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto;
+  display: block;
+}
+
+/* --- 9. FIELD PHOTO SHORTCODE --- */
+.field-photo {
+  position: relative;
+  margin: 3.5rem auto;
+  width: 90%;
+  max-width: 550px;
+  transform: rotate(1deg); 
+}
+
+.field-photo .tape {
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-3deg);
+  width: 90px;
+  height: 26px;
+  background-color: var(--tape-color);
+  backdrop-filter: blur(3px);
+  z-index: 10;
+}
+
+.field-photo img {
+  width: 100%;
+  border: 6px solid #FFFFFF;
+  box-shadow: 2px 4px 12px rgba(0,0,0,0.1);
+}
+
+.field-photo figcaption {
+  font-family: 'Caveat', cursive;
+  font-size: 1.4rem;
+  text-align: center;
+  color: var(--fade-text);
+  margin-top: 0.8rem;
+}
+
+/* --- 10. AUTOMATED LIST LOGIC --- */
+.scrapbook-card:nth-child(odd) { transform: rotate(-1deg); }
+.scrapbook-card:nth-child(even) { transform: rotate(1deg); }
+
+.scrapbook-card:nth-child(odd) .washi { transform: translateX(-50%) rotate(-2deg); }
+.scrapbook-card:nth-child(even) .washi { transform: translateX(-50%) rotate(3deg); }
+
+.scrapbook-card:nth-child(3n+1) .washi { background-color: #A5BA9B; } 
+.scrapbook-card:nth-child(3n+2) .washi { background-color: #E2A9B2; } 
+.scrapbook-card:nth-child(3n+3) .washi { background-color: #F4EAE2; }
+
+/* Nuke remnants */
+#top-link { 
+  display: none !important; 
+}
+
+/* --- 11. NOTEBOOK THEMES --- */
+.notebook-art .washi { background-color: #E64833 !important; opacity: 0.6; } 
+.notebook-art { background-image: radial-gradient(#E2A9B2 1px, transparent 1px) !important; }
+
+.notebook-science .washi { background-color: #A5BA9B !important; } 
+.notebook-science { background-image: radial-gradient(#D6D0C4 1px, transparent 1px) !important; }
+
+.notebook-writing .washi { background-color: #7A7A7A !important; mix-blend-mode: multiply; }
+.notebook-writing .scrapbook-card { border: 1px dashed #D6D0C4; } 
+
+.notebook-birds .washi:nth-child(even) { background-color: #246B9C !important; } 
+.notebook-birds .washi:nth-child(odd) { background-color: #C8AC8F !important; } 
+
+/* --- 12. DARK MODE: The Night Journal --- */
+body.dark {
+  --bg-color: #1A1A17;       
+  --text-color: #E6E1D7;     
+  --link-color: #82A9C9;     
+  --accent-color: #FF6B57;   
+  --fade-text: #999992;
+  /* NO background colors here, they move to ::before */
+}
+
+/* Dark Mode Fixed Wallpaper */
+body.dark::before {
+  background-color: #1A1A17 !important;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px) !important;
+}
+
+body.dark .scrapbook-card {
+  background: #252521 !important;
+  border: 1px solid #33332E !important;
+  box-shadow: 4px 8px 20px rgba(0,0,0,0.3) !important;
+}
+
+body.dark .botanical-scrap {
+  mix-blend-mode: screen; 
+  filter: invert(0.1) brightness(1.2) sepia(0.2);
+  opacity: 0.6;
+}
+
+body.dark .washi {
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+body.dark .washi.sage { background-color: #4A5D44; }
+body.dark .washi.blush { background-color: #6D4349; }
+
+body.dark .sketch-img {
+  mix-blend-mode: normal;
+  border-color: #252521;
+}
+
+/* Dark Mode Tab Toggle */
+#dark-mode-toggle:hover {
+  right: 0px !important;
+  background-color: var(--accent-color) !important;
+}
+
+#dark-mode-toggle:hover .mode-icon {
+  filter: brightness(0) invert(1); 
+}
+
+body.dark #dark-mode-toggle {
+  border: 1px solid rgba(255,255,255,0.1);
+  border-right: none;
+  background-color: #252521 !important;
+  color: white !important;
+}
+
+/* Dark Mode Sticky Note */
+body.dark .taped-note {
+  background-color: #252521 !important; 
+  border: 1px solid #33332E !important;
+  box-shadow: 4px 8px 20px rgba(0,0,0,0.3) !important;
+}
+
+body.dark .taped-note p,
+body.dark .taped-note div {
+  color: #E6E1D7 !important; 
+}
+
+body.dark .taped-note::before {
+  background-color: rgba(255, 255, 255, 0.1); 
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* --- Gallery Hover Effect --- */
+.field-photo {
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease;
+}
+
+.field-photo:hover {
+  transform: scale(1.05) rotate(0deg) !important;
+  box-shadow: 8px 12px 30px rgba(0,0,0,0.4) !important;
+  z-index: 100; /* Brings the art above the other photos */
+}
+
+/* --- SKETCHBOOK GALLERY AUTOMATION --- */
+/* 1. Tilt them back and forth */
+.sketch-gallery-card:nth-child(odd) { transform: rotate(-3deg); }
+.sketch-gallery-card:nth-child(even) { transform: rotate(4deg); }
+.sketch-gallery-card:nth-child(3n) { transform: rotate(-1deg); } /* Breaks the pattern up */
+
+/* 2. Randomly change tape colors (Every 4th card gets red tape) */
+.sketch-gallery-card:nth-child(4n) .tape {
+  background-color: var(--accent-color) !important;
+  opacity: 0.8;
+}
+
+/* 3. The Pick-Up Hover Effect */
+.sketch-gallery-card {
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease;
+}
+
+.sketch-gallery-card:hover {
+  transform: scale(1.05) rotate(0deg) !important;
+  box-shadow: 8px 12px 30px rgba(0,0,0,0.4) !important;
+  z-index: 100;
+}

@@ -1,11 +1,9 @@
-#heading[The Streaked Spiderhunter] 
 
 If you are ever out birding in montane forests in eastern India, and if you are lucky enough to see scores of small birds flitting about in the trees on dainty wings, you can always spot these birds out by their obscenely long beaks.
 
 There are eleven species of spiderhunters in South and Southeastern Asia, and this is one of the two found in India.
 
 #figure(image("1800.jpg"))
-
 Spidehunters forage all parts of the forest canopy, never veering close to the ground; if you stand long enough, they appear almost squirrel-like as they scuttle and look for small invertebrates. 
 
 == Plumage

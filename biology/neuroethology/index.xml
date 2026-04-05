@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Behavioral Neurobiology on Adrika Chaudhuri</title>
     <link>https://thepiedpieper.github.io/biology/neuroethology/</link>
     <description>Recent content in Behavioral Neurobiology on Adrika Chaudhuri</description>
-    <image>
-      <title>Adrika Chaudhuri</title>
-      <url>https://thepiedpieper.github.io/BG.jpg</url>
-      <link>https://thepiedpieper.github.io/BG.jpg</link>
-    </image>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://thepiedpieper.github.io/biology/neuroethology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADHD and X chromosome inactivation</title>
       <link>https://thepiedpieper.github.io/biology/neuroethology/adhd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thepiedpieper.github.io/biology/neuroethology/adhd/</guid>
-      <description>&lt;h1 id=&#34;x-chromosome-inactivation-in-neurodevelopmental-diseases&#34;&gt;X chromosome inactivation in neurodevelopmental diseases&lt;/h1&gt;
-&lt;p&gt;In mammalian systems (humans here), the female has two X chromosomes, while the male has one - the X chromosome is not only necessary for sexual dimorphism, but also has protein coding genes important in neurodevelopment and functioning. As a form of dosage compensation to prevent overproduction of these proteins in females, one of the X chromosomes is randomly inactivated independently in all cells in early mammalian development (8 cell stage) . &lt;strong&gt;This leads to mosaicism in females&lt;/strong&gt;, which leads to greater genetic variability in females, as well as potential heterozygote advantage.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;x-chromosome-inactivation-in-neurodevelopmental-diseases&#34;&gt;X chromosome inactivation in neurodevelopmental diseases&lt;/h1&gt;&#xA;&lt;p&gt;In mammalian systems (humans here), the female has two X chromosomes, while the male has one - the X chromosome is not only necessary for sexual dimorphism, but also has protein coding genes important in neurodevelopment and functioning. As a form of dosage compensation to prevent overproduction of these proteins in females, one of the X chromosomes is randomly inactivated independently in all cells in early mammalian development (8 cell stage) . &lt;strong&gt;This leads to mosaicism in females&lt;/strong&gt;, which leads to greater genetic variability in females, as well as potential heterozygote advantage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Overview of Neuroethology and the topics covered here</title>
@@ -32,16 +27,7 @@
       <link>https://thepiedpieper.github.io/biology/neuroethology/ch1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://thepiedpieper.github.io/biology/neuroethology/ch1/</guid>
-      <description>&lt;h1 id=&#34;neural-mechanisms-of-behavior&#34;&gt;Neural Mechanisms of Behavior&lt;/h1&gt;
-&lt;p&gt;Now that we have established the foundation of neuroethology, let&amp;rsquo;s dive deeper into the &lt;strong&gt;neural mechanisms that control behavior.&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;the-neural-basis-of-behavior&#34;&gt;The Neural Basis of Behavior&lt;/h2&gt;
-&lt;p&gt;Every behavior—whether as simple as a reflex or as complex as decision-making—arises from &lt;strong&gt;neuronal circuits&lt;/strong&gt;. Neuroethologists investigate:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Sensory Processing&lt;/strong&gt; – How animals perceive stimuli.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Neural Integration&lt;/strong&gt; – How sensory information is processed and transformed into a response.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Motor Output&lt;/strong&gt; – How the nervous system generates movement.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;These steps define an &lt;strong&gt;input-processing-output&lt;/strong&gt; framework:&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;neural-mechanisms-of-behavior&#34;&gt;Neural Mechanisms of Behavior&lt;/h1&gt;&#xA;&lt;p&gt;Now that we have established the foundation of neuroethology, let&amp;rsquo;s dive deeper into the &lt;strong&gt;neural mechanisms that control behavior.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-neural-basis-of-behavior&#34;&gt;The Neural Basis of Behavior&lt;/h2&gt;&#xA;&lt;p&gt;Every behavior—whether as simple as a reflex or as complex as decision-making—arises from &lt;strong&gt;neuronal circuits&lt;/strong&gt;. Neuroethologists investigate:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sensory Processing&lt;/strong&gt; – How animals perceive stimuli.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Neural Integration&lt;/strong&gt; – How sensory information is processed and transformed into a response.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Motor Output&lt;/strong&gt; – How the nervous system generates movement.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;These steps define an &lt;strong&gt;input-processing-output&lt;/strong&gt; framework:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

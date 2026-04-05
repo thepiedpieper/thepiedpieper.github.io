@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biologies on Adrika Chaudhuri</title>
+    <title>Biology &amp; Field Notes on Adrika Chaudhuri</title>
     <link>https://thepiedpieper.github.io/biology/</link>
-    <description>Recent content in Biologies on Adrika Chaudhuri</description>
-    <image>
-      <title>Adrika Chaudhuri</title>
-      <url>https://thepiedpieper.github.io/BG.jpg</url>
-      <link>https://thepiedpieper.github.io/BG.jpg</link>
-    </image>
+    <description>Recent content in Biology &amp; Field Notes on Adrika Chaudhuri</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
@@ -18,14 +13,7 @@
       <link>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</link>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</guid>
-      <description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt;
-&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.
-&lt;!-- raw HTML omitted --&gt;How do cells achieve this?&lt;!-- raw HTML omitted --&gt;
-Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Forward genetic analysis  &lt;br&gt;
-This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.
-Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt;&#xA;&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.&#xA;&lt;!-- raw HTML omitted --&gt;How do cells achieve this?&lt;!-- raw HTML omitted --&gt;&#xA;Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Forward genetic analysis  &lt;br&gt;&#xA;This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.&#xA;Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

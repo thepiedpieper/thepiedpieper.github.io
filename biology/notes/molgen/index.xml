@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Genetics on Adrika Chaudhuri</title>
+    <link>https://thepiedpieper.github.io/biology/notes/molgen/</link>
+    <description>Recent content in Molecular Genetics on Adrika Chaudhuri</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://thepiedpieper.github.io/biology/notes/molgen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://thepiedpieper.github.io/biology/notes/molgen/cheatsheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/notes/molgen/cheatsheet/</guid>
+      <description>&lt;p&gt;Just a cheatsheet for protein expression and cloning:&lt;/p&gt;&#xA;&lt;h3 id=&#34;expression-vectors&#34;&gt;Expression Vectors&lt;/h3&gt;&#xA;&lt;p&gt;Feature | pET | pBAD | pQE | pGEX&#xA;Promoter | T7 (requires T7 polymerase) | AraBAD | T5 | Tac&#xA;Inducible Expression | IPTG | Arabinose | IPTG | IPTG&#xA;Fusion Tags | His-tag (6x) | His-tag (6x) | His-tag (6x) | GST (Glutathione-S-transferase)&#xA;Advantages | High-level expression | Tight control, low basal expression | High-level expression | Solubility and purification with GST tag&#xA;Disadvantages | Inclusion bodies, requires special host | Less efficient than IPTG induction | Inclusion bodies | GST tag can affect protein function&#xA;Best For | High-expression, large-scale protein production | Toxic proteins, low basal expression | High-yield protein production | Protein interaction studies, solubility issues&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Basics</title>
+      <link>https://thepiedpieper.github.io/biology/notes/molgen/dnarep/basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/notes/molgen/dnarep/basics/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/dna.pdf&#34;&gt;DNA&lt;/a&gt;&#xA;Watson and Crick&amp;rsquo;s hypothesis had immediately suggested a possible self-replication method for DNA because of complementarity in base pairing.&lt;/p&gt;&#xA;&lt;p&gt;At this junction, possible modes of DNA replication:&#xA;Conservative /  Semi-conservative /  Dispersive&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Meselson-Stahl Experiment proves replication is semi-conservative&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bacteria grown in N(15) medium incorporate N14 in a light medium - CsCl density gradient centrifugation revealed.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identification of Replication Fork&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;John Cairns identified the replication fork by allowing replicating DNA in cells to incorporate tritiated thymidine. Each daughter molecule contains a radioactive strand and a cold strand.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DNA Repair</title>
+      <link>https://thepiedpieper.github.io/biology/notes/molgen/repair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/notes/molgen/repair/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/MismatchRepair.pdf&#34;&gt;DNA Repair Mechanisms&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://thepiedpieper.github.io/biology/notes/molgen/week-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/notes/molgen/week-1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/week1.pdf&#34;&gt;Introduction&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Regulation of DNA replication</title>
+      <link>https://thepiedpieper.github.io/biology/notes/molgen/dnarep/regulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/notes/molgen/dnarep/regulation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/regulation.pdf&#34;&gt;Regulation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Q. Why don&#39;t somatic cells have telomerases?&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;They prevent the accummulation of harmful mutations in this way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RNAs</title>
+      <link>https://thepiedpieper.github.io/biology/notes/molgen/rna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/notes/molgen/rna/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/rna.pdf&#34;&gt;RNA&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transcription</title>
+      <link>https://thepiedpieper.github.io/biology/notes/molgen/transcription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thepiedpieper.github.io/biology/notes/molgen/transcription/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://thepiedpieper.github.io/images/test.pdf&#34;&gt;Transcription&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
