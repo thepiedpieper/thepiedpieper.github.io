@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Studies on Adrika Chaudhuri</title>
-    <link>https://thepiedpieper.github.io/biology/notes/</link>
-    <description>Recent content in Studies on Adrika Chaudhuri</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://thepiedpieper.github.io/biology/notes/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<channel>
+		<title>Studies on Adrika Chaudhuri</title>
+		<link>https://thepiedpieper.github.io/biology/notes/</link>
+		<description>Recent content in Studies on Adrika Chaudhuri</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://thepiedpieper.github.io/biology/notes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title></title>
+				<link>https://thepiedpieper.github.io/biology/notes/chemeco/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://thepiedpieper.github.io/biology/notes/chemeco/</guid>
+				<description>&lt;h1 id=&#34;chemical-ecology--secondary-metabolism&#34;&gt;Chemical Ecology &amp;amp; Secondary Metabolism&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ichip-technology--novel-antibiotics&#34;&gt;iChip Technology &amp;amp; Novel Antibiotics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uncultured bacteria make up 99% of all species in external environments, representing an untapped source of new antibiotics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;iChip Technology:&lt;/strong&gt; Cultures bacterial species within their soil environment using tiny diffusion chambers.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The soil is diluted (in agar, nutrients) -&amp;gt; only a single cell grows in a well.&lt;/li&gt;&#xA;&lt;li&gt;The chip is enclosed in a semipermeable membrane and buried in soil to allow in nutrients.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Limitations:&lt;/strong&gt; * Does not allow synergistic partners to grow.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Requires a substantial amount of water to prevent drying.&lt;/li&gt;&#xA;&lt;li&gt;Creates anoxic conditions on the chip sometimes, due to the buildup of sediments.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;teixobactin&#34;&gt;Teixobactin&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Discovered from 10,000 isolates from iChip cultures.&lt;/li&gt;&#xA;&lt;li&gt;Isolates were put in plates overlaid with &lt;em&gt;S. aureus&lt;/em&gt; to check for antimicrobial activity.&lt;/li&gt;&#xA;&lt;li&gt;beta-proteobacteria &lt;em&gt;E. terrae&lt;/em&gt; showed good activity. Its genome was sequenced using 16S DNA and &lt;em&gt;in silico&lt;/em&gt; DNA-DNA hybridization. It belongs to Aquabacteria (Gram-negative).&lt;/li&gt;&#xA;&lt;li&gt;The partially purified active fraction underwent 1242 Da mass spec isolation to yield Teixobactin.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mechanism &amp;amp; Target:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Has extensive activity against Gram-positive bacteria, including drug-resistant strains.&lt;/li&gt;&#xA;&lt;li&gt;Inhibits peptidoglycan synthesis, but lacks resistant mutations.&lt;/li&gt;&#xA;&lt;li&gt;The target could be a lipid (not a protein).&lt;/li&gt;&#xA;&lt;li&gt;Shows dose-dependent binding with lipid I, II, and III (undecaprenyl-pyrophosphate).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;clovibactin&#34;&gt;Clovibactin&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sourced from unculturable bacteria.&lt;/li&gt;&#xA;&lt;li&gt;Prevents peptidoglycan synthesis and kills Gram-positive bacteria.&lt;/li&gt;&#xA;&lt;li&gt;The method was found out using: biochemical assays, solid-state NMR, and atomic force microscopy.&lt;/li&gt;&#xA;&lt;li&gt;Utilizes an unusual hydrophobic interface to tightly wrap around pyrophosphate -&amp;gt; bypasses variable elements.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;chemical-signalling--quorum-sensing&#34;&gt;Chemical Signalling &amp;amp; Quorum Sensing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Types of Signalling:&lt;/strong&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Paracrine:&lt;/strong&gt; Acts locally between neighbouring cells.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Autocrine:&lt;/strong&gt; Signalling cells can bind to the ligand, target cell can be similar/same.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Endocrine:&lt;/strong&gt; Acts on distant cells (from endocrine organs).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gap Junction:&lt;/strong&gt; Connections between plasma membranes allowing diffusion of intracellular mediators.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;quorum-sensing-qs&#34;&gt;Quorum Sensing (QS)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cell-to-cell communication to coordinate behaviours in an environmental and cell-density-dependent manner.&lt;/li&gt;&#xA;&lt;li&gt;Uses secreted autoinducers (AI) for intra-group communication. These range from small hydrophobic molecules (acyl homoserine lactone - AHL) to larger peptide-based molecules. AHLs, for example, are transcriptional regulators.&lt;/li&gt;&#xA;&lt;li&gt;The type of QS depends on cell wall physiology:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thin cell walls (Gram-negative):&lt;/strong&gt; Hydrophobic N-acyl-homoserine lactone (passive diffusion).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thick cell walls (Gram-positive):&lt;/strong&gt; Large peptides (active transport through ABC Transporters).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mechanism Loop:&lt;/strong&gt; Autoinducers move out of the cell -&amp;gt; bacteria reproduce -&amp;gt; autoinducer hits critical mass -&amp;gt; Extracellular conc. &amp;gt; Intracellular conc. -&amp;gt; negative feedback loop &amp;amp; other functions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;examples-of-quorum-sensing&#34;&gt;Examples of Quorum Sensing&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. &lt;em&gt;Aliivibrio fischeri&lt;/em&gt; &amp;amp; the Bobtail Squid&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
