@@ -10,15 +10,15 @@
 		
 		
 		
-			<lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://thepiedpieper.github.io/biology/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Border Cell Migration</title>
-				<link>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</link>
-				<pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</guid>
-				<description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt;&#xA;&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.&#xA;&lt;u&gt;How do cells achieve this?&lt;/u&gt;&#xA;Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Forward genetic analysis  &lt;br&gt;&#xA;This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.&#xA;Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
+				<title>Rheotaxis in Zebrafish (Danio rerio)</title>
+				<link>https://thepiedpieper.github.io/biology/rheotaxis/</link>
+				<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>https://thepiedpieper.github.io/biology/rheotaxis/</guid>
+				<description>&lt;p&gt;While navigating a fluid environment like the water(swimming) or air (flying), an animal must learn to swim against the flow, and hold itself steady against the displacements induced by the surrounding air or water flow. From the animals frame of reference, these displacements can be detected as changes in their field of vision. However, even in the absence of such illuminating visual cues, aquatic animals seem to know how to orient themselves and swim against the oncoming flows. What navigational cues do they use, and how do they process it?&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

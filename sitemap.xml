@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thepiedpieper.github.io/biology/rheotaxis/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thepiedpieper.github.io/art/</loc>
     <lastmod>2026-06-14T11:18:52+05:30</lastmod>
   </url><url>
@@ -95,7 +98,7 @@
     <loc>https://thepiedpieper.github.io/tags/biology/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepiedpieper.github.io/biology/dev-bio/border-cell-migration/</loc>
+    <loc>https://thepiedpieper.github.io/biology/neuroethology/border-cell-migration/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepiedpieper.github.io/tags/migration/</loc>

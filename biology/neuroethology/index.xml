@@ -34,5 +34,12 @@
 				<guid>https://thepiedpieper.github.io/biology/neuroethology/ch1/</guid>
 				<description>&lt;h1 id=&#34;neural-mechanisms-of-behavior&#34;&gt;Neural Mechanisms of Behavior&lt;/h1&gt;&#xA;&lt;p&gt;Now that we have established the foundation of neuroethology, let&amp;rsquo;s dive deeper into the &lt;strong&gt;neural mechanisms that control behavior.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-neural-basis-of-behavior&#34;&gt;The Neural Basis of Behavior&lt;/h2&gt;&#xA;&lt;p&gt;Every behavior—whether as simple as a reflex or as complex as decision-making—arises from &lt;strong&gt;neuronal circuits&lt;/strong&gt;. Neuroethologists investigate:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sensory Processing&lt;/strong&gt; – How animals perceive stimuli.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Neural Integration&lt;/strong&gt; – How sensory information is processed and transformed into a response.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Motor Output&lt;/strong&gt; – How the nervous system generates movement.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;These steps define an &lt;strong&gt;input-processing-output&lt;/strong&gt; framework:&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Border Cell Migration</title>
+				<link>https://thepiedpieper.github.io/biology/neuroethology/border-cell-migration/</link>
+				<pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://thepiedpieper.github.io/biology/neuroethology/border-cell-migration/</guid>
+				<description>&lt;h1 id=&#34;what-is-migration&#34;&gt;What is migration?&lt;/h1&gt;&#xA;&lt;p&gt;The conversion of stationary epithelial cells into migratory, invasive cells, which is important for normal embryonic development.&#xA;&lt;u&gt;How do cells achieve this?&lt;/u&gt;&#xA;Cells that are part of a stable epithelium lose their cell-cell and cell-matrix junctions that hold them together and acquire a less rigidly polarised morphology and break away from their neighbours.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Forward genetic analysis  &lt;br&gt;&#xA;This involves uncovering the genetic basis behind a particular phenotype. Mutant lines are screened for specific defects in the process of interest. Molecular, cellular and chemical characterisation of the affected genes and proteins is then carried out.&#xA;Reverse genetics: manipulating genes and studying their effect on phenotypes&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
